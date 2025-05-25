@@ -8,7 +8,7 @@ This project was created as part of a frontend case study to demonstrate profici
 
 ## 🔗 Live Demo
 
-🌐 [Visit the Deployed App on Netlify](https://graceful-beijinho-af1a9d.netlify.app)  
+🌐 [Visit the Deployed App on Netlify](https://mapmyprofile.netlify.app/)  
 📂 [GitHub Repository](https://github.com/omg2804/mapmyprofile)
 
 ---
