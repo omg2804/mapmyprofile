@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Morgan",
+    "photo": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortBio": "Software Engineer passionate about creating intuitive user experiences.",
+    "fullBio": "I'm a software engineer with 7 years of experience building web applications. I specialize in front-end development using React and TypeScript. In my free time, I enjoy hiking, photography, and contributing to open-source projects.",
+    "address": "123 Tech Lane, San Francisco, CA 94107",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "contact": {
+      "email": "alex.morgan@example.com",
+      "phone": "415-555-1234",
+      "social": {
+        "twitter": "@alexmorgan",
+        "linkedin": "alexmorgan",
+        "github": "alexmorgan"
+      }
+    },
+    "interests": ["Web Development", "Photography", "Hiking", "Open Source"],
+    "skills": ["React", "TypeScript", "Node.js", "UI/UX Design"],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Stanford University",
+        "year": "2015"
+      }
+    ],
+    "company": "TechNova Inc."
+  },
+  {
+    "id": 2,
+    "name": "Jordan Taylor",
+    "photo": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortBio": "UX Designer helping brands connect with their users through thoughtful digital experiences.",
+    "fullBio": "Award-winning UX designer with 5+ years of experience crafting user-centered digital products. I believe in design that solves real problems and creates meaningful connections. Previously designed for Fortune 500 companies and innovative startups.",
+    "address": "456 Design Ave, New York, NY 10013",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "contact": {
+      "email": "jordan.taylor@example.com",
+      "phone": "212-555-6789",
+      "social": {
+        "twitter": "@jordantdesign",
+        "linkedin": "jordantaylor",
+        "dribbble": "jordantaylor"
+      }
+    },
+    "interests": ["UI/UX Design", "Typography", "User Research", "Accessibility"],
+    "skills": ["Figma", "User Research", "Interaction Design", "Design Systems"],
+    "education": [
+      {
+        "degree": "M.F.A. Interaction Design",
+        "institution": "School of Visual Arts",
+        "year": "2018"
+      },
+      {
+        "degree": "B.A. Graphic Design",
+        "institution": "Rhode Island School of Design",
+        "year": "2016"
+      }
+    ],
+    "company": "DesignForward Studio"
+  },
+  {
+    "id": 3,
+    "name": "Taylor Chen",
+    "photo": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortBio": "Data Scientist transforming complex data into actionable insights.",
+    "fullBio": "Data scientist with a background in statistics and machine learning. I help companies leverage their data to make better decisions and create more personalized user experiences. I'm particularly interested in natural language processing and predictive analytics.",
+    "address": "789 Data Drive, Seattle, WA 98109",
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "contact": {
+      "email": "taylor.chen@example.com",
+      "phone": "206-555-4321",
+      "social": {
+        "twitter": "@taylorchen_data",
+        "linkedin": "taylorchen",
+        "github": "taylorchen"
+      }
+    },
+    "interests": ["Machine Learning", "NLP", "Data Visualization", "Predictive Analytics"],
+    "skills": ["Python", "TensorFlow", "SQL", "Statistical Analysis"],
+    "education": [
+      {
+        "degree": "Ph.D. Computer Science",
+        "institution": "University of Washington",
+        "year": "2020"
+      },
+      {
+        "degree": "B.S. Statistics",
+        "institution": "UC Berkeley",
+        "year": "2016"
+      }
+    ],
+    "company": "DataSmart Analytics"
+  },
+  {
+    "id": 4,
+    "name": "Morgan Rivers",
+    "photo": "https://images.pexels.com/photos/3764119/pexels-photo-3764119.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortBio": "Marketing strategist with a passion for storytelling and brand development.",
+    "fullBio": "Creative marketing strategist with experience across digital and traditional channels. I've worked with startups and established brands to craft compelling narratives and growth strategies. My approach combines data-driven insights with creative storytelling.",
+    "address": "1010 Market Street, Austin, TX 78701",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "contact": {
+      "email": "morgan.rivers@example.com",
+      "phone": "512-555-8765",
+      "social": {
+        "twitter": "@morganrivers",
+        "linkedin": "morganrivers",
+        "instagram": "morganrivers"
+      }
+    },
+    "interests": ["Digital Marketing", "Content Strategy", "Brand Development", "Social Media"],
+    "skills": ["Content Creation", "SEO", "Social Media Strategy", "Analytics"],
+    "education": [
+      {
+        "degree": "M.B.A. Marketing",
+        "institution": "University of Texas",
+        "year": "2019"
+      },
+      {
+        "degree": "B.A. Communications",
+        "institution": "Boston University",
+        "year": "2017"
+      }
+    ],
+    "company": "GrowthLab Marketing"
+  },
+  {
+    "id": 5,
+    "name": "Casey Kim",
+    "photo": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortBio": "Product Manager bridging technology and business to create exceptional user experiences.",
+    "fullBio": "Experienced product manager who thrives at the intersection of technology, business, and user experience. I've led cross-functional teams to ship products used by millions of people worldwide. I'm passionate about solving complex problems and delivering delightful user experiences.",
+    "address": "555 Product Lane, Chicago, IL 60601",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "contact": {
+      "email": "casey.kim@example.com",
+      "phone": "312-555-9876",
+      "social": {
+        "twitter": "@caseykim_pm",
+        "linkedin": "caseykim",
+        "medium": "@caseykim"
+      }
+    },
+    "interests": ["Product Strategy", "User Research", "Agile Methodologies", "Technology Trends"],
+    "skills": ["Product Management", "Roadmapping", "User Stories", "A/B Testing"],
+    "education": [
+      {
+        "degree": "M.B.A.",
+        "institution": "Northwestern University",
+        "year": "2016"
+      },
+      {
+        "degree": "B.S. Information Systems",
+        "institution": "Carnegie Mellon University",
+        "year": "2012"
+      }
+    ],
+    "company": "Innovative Products Inc."
+  }
+]
